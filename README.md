@@ -1,3 +1,3 @@
-# algorithm
+# atcoder-cpp
 
 for study
